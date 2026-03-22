@@ -1,8 +1,0 @@
-[
-  {"categoria": "parede", "nome": "Parede externa bloco cerâmico rebocada", "u_w_m2k": 2.45, "descricao": "Parede convencional de alvenaria"},
-  {"categoria": "parede", "nome": "Parede com isolamento interno", "u_w_m2k": 1.35, "descricao": "Parede com camada isolante"},
-  {"categoria": "cobertura", "nome": "Cobertura fibrocimento simples", "u_w_m2k": 3.20, "descricao": "Telha sem isolamento"},
-  {"categoria": "cobertura", "nome": "Cobertura metálica isolada", "u_w_m2k": 1.10, "descricao": "Sanduíche com isolamento"},
-  {"categoria": "piso", "nome": "Piso sobre solo", "u_w_m2k": 1.45, "descricao": "Piso convencional"},
-  {"categoria": "piso", "nome": "Piso isolado", "u_w_m2k": 0.85, "descricao": "Piso com isolamento térmico"}
-]
