@@ -1,0 +1,10 @@
+[
+  {"nome": "Bloco cerâmico", "condutividade": 0.9, "densidade": 1300, "calor_especifico": 920},
+  {"nome": "Argamassa", "condutividade": 1.15, "densidade": 2000, "calor_especifico": 1000},
+  {"nome": "Concreto", "condutividade": 1.75, "densidade": 2300, "calor_especifico": 1000},
+  {"nome": "Gesso", "condutividade": 0.35, "densidade": 950, "calor_especifico": 1090},
+  {"nome": "Lã de vidro", "condutividade": 0.04, "densidade": 25, "calor_especifico": 840},
+  {"nome": "EPS", "condutividade": 0.036, "densidade": 20, "calor_especifico": 1450},
+  {"nome": "Telha fibrocimento", "condutividade": 0.95, "densidade": 1700, "calor_especifico": 840},
+  {"nome": "Madeira", "condutividade": 0.15, "densidade": 600, "calor_especifico": 1340}
+]
