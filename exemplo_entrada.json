@@ -1,0 +1,42 @@
+{
+  "nome_projeto": "Projeto Exemplo",
+  "cidade": "São Paulo - SP",
+  "tbs_externa_c": 31.0,
+  "ur_externa_pct": 58.0,
+  "umidade_externa_gkg": 14.5,
+  "nome_ambiente": "Escritório Operacional",
+  "area_m2": 50.0,
+  "altura_m": 2.8,
+  "delta_t_c": 8.0,
+  "umidade_interna_gkg": 9.0,
+  "pessoas": 8,
+  "calor_sensivel_pessoa_w": 75.0,
+  "calor_latente_pessoa_w": 55.0,
+  "iluminacao_w": 700.0,
+  "equipamentos_w": 1400.0,
+  "ventilacao_m3h": 270.0,
+  "parede": {
+    "area_m2": 42.0,
+    "modo": "simples",
+    "elemento_nome": "Parede externa bloco cerâmico rebocada",
+    "camadas": []
+  },
+  "cobertura": {
+    "area_m2": 50.0,
+    "modo": "simples",
+    "elemento_nome": "Cobertura fibrocimento simples",
+    "camadas": []
+  },
+  "piso": {
+    "area_m2": 50.0,
+    "modo": "simples",
+    "elemento_nome": "Piso sobre solo",
+    "camadas": []
+  },
+  "vidro": {
+    "area_m2": 8.0,
+    "vidro_nome": "Vidro refletivo 6 mm",
+    "sc": 1.0,
+    "radiacao_w_m2": 220.0
+  }
+}
