@@ -1,0 +1,8 @@
+[
+  {"cidade": "São Paulo", "estado": "SP", "tbs_verao_c": 31.0, "ur_verao_pct": 58.0, "umidade_absoluta_gkg": 14.5, "radiacao_solar_vidro_w_m2": 220.0},
+  {"cidade": "Rio de Janeiro", "estado": "RJ", "tbs_verao_c": 35.0, "ur_verao_pct": 60.0, "umidade_absoluta_gkg": 16.5, "radiacao_solar_vidro_w_m2": 250.0},
+  {"cidade": "Belo Horizonte", "estado": "MG", "tbs_verao_c": 31.0, "ur_verao_pct": 55.0, "umidade_absoluta_gkg": 13.5, "radiacao_solar_vidro_w_m2": 215.0},
+  {"cidade": "Brasília", "estado": "DF", "tbs_verao_c": 30.0, "ur_verao_pct": 50.0, "umidade_absoluta_gkg": 11.5, "radiacao_solar_vidro_w_m2": 240.0},
+  {"cidade": "Curitiba", "estado": "PR", "tbs_verao_c": 30.0, "ur_verao_pct": 56.0, "umidade_absoluta_gkg": 12.5, "radiacao_solar_vidro_w_m2": 205.0},
+  {"cidade": "Salvador", "estado": "BA", "tbs_verao_c": 32.0, "ur_verao_pct": 72.0, "umidade_absoluta_gkg": 17.0, "radiacao_solar_vidro_w_m2": 235.0}
+]
