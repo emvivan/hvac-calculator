@@ -1,0 +1,5 @@
+[
+  {"nome": "Vidro incolor 6 mm", "u_w_m2k": 5.70, "shgc": 0.82, "transmissao_luminosa": 0.88},
+  {"nome": "Vidro refletivo 6 mm", "u_w_m2k": 5.40, "shgc": 0.58, "transmissao_luminosa": 0.46},
+  {"nome": "Vidro duplo low-e", "u_w_m2k": 2.70, "shgc": 0.42, "transmissao_luminosa": 0.62}
+]
